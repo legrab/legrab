@@ -24,6 +24,12 @@ I tend to be useful where requirements are fuzzy, systems need structure, integr
 * **[Kamra](https://github.com/Kamrapp/Kamra)**
   Household stock and grocery-offer ingestion experiment. TypeScript, Angular, Node, MongoDB, GitHub Actions, crawler adapters, raw snapshots, and parser-focused ingestion workflows.
 
+* **[Curvebench](https://github.com/legrab/Curvebench)**
+  Browser app for exploring interpolation, regression, parametric models, residuals, and basic 3D surface fitting.
+
+* **[Fonat](https://github.com/legrab/fonat)**
+  Educational platform for creating lessons, presenting material, collecting live responses, and managing assignments and assessments.
+
 * **[CV Generator](https://github.com/legrab/CV-generator)**
   Small YAML-to-HTML CV generator used to keep profile variants reproducible instead of hand-editing separate documents.
 
