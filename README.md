@@ -30,6 +30,9 @@ I tend to be useful where requirements are fuzzy, systems need structure, integr
 * **[Fonat](https://github.com/legrab/fonat)**
   Educational platform for creating lessons, presenting material, collecting live responses, and managing assignments and assessments.
 
+* **[Pocok](https://github.com/legrab/pocok)**
+  Collection of reusable .NET libraries for convenient reusability.
+
 * **[CV Generator](https://github.com/legrab/CV-generator)**
   Small YAML-to-HTML CV generator used to keep profile variants reproducible instead of hand-editing separate documents.
 
