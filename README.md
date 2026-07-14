@@ -40,3 +40,4 @@ I tend to be useful where requirements are fuzzy, systems need structure, integr
 
 * [CV](https://legrab.github.io/cv-generator-content/)
 * [LinkedIn](https://www.linkedin.com/in/barnageller/)
+* [NuGet packages](https://www.nuget.org/profiles/legrab)
