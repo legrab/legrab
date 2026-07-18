@@ -31,8 +31,11 @@ That experience still shapes how I decompose problems, test understanding, commu
 
 These repositories are small, inspectable examples of how I frame problems and structure work rather than a proxy for the scale of the systems I have worked on.
 
-* **[Codebase Learning Flow](https://github.com/legrab/codebase-learning-flow)**
-  A repository-native framework for safe agentic collaboration and deliberate codebase learning, separating delivery governance from optional teaching and knowledge capture.
+* **[Kamra](https://github.com/Kamrapp/Kamra)**
+  A household stock and shopping-planning system that connects product modeling, ingestion, evidence, review workflows, and operational safeguards rather than treating crawling as the product.
+
+* **[Curvebench](https://github.com/legrab/curvebench)**
+  An educational browser application for exploring numerical models, residuals, limitations, and 3D fitting with an emphasis on making mathematical behavior inspectable.
 
 * **[Pocok](https://github.com/legrab/pocok)**
   A deliberately small .NET package portfolio exploring clear capability boundaries, compatibility, testing, release engineering, and the cost of turning repeated application needs into reusable components.
@@ -40,11 +43,8 @@ These repositories are small, inspectable examples of how I frame problems and s
 * **[Fonat](https://github.com/legrab/fonat)**
   An educational system for authoring lessons, presenting material, collecting live responses, and managing assignments and assessments, organized around explicit domain and ownership boundaries.
 
-* **[Kamra](https://github.com/Kamrapp/Kamra)**
-  A household stock and shopping-planning system that connects product modeling, ingestion, evidence, review workflows, and operational safeguards rather than treating crawling as the product.
-
-* **[Curvebench](https://github.com/legrab/curvebench)**
-  An educational browser application for exploring numerical models, residuals, limitations, and 3D fitting with an emphasis on making mathematical behavior inspectable.
+* **[Codebase Learning Flow](https://github.com/legrab/codebase-learning-flow)**
+  A repository-native framework for safe agentic collaboration and deliberate codebase learning, separating delivery governance from optional teaching and knowledge capture.
 
 Smaller repositories also include focused tests, benchmarks, workshop material, and minimal reproductions for .NET, Rider, Paket, and industrial-integration issues.
 I value reducing a problem enough to explain, verify, and report it clearly.
