@@ -3,51 +3,46 @@
 **Software engineer · architecture & integration · technical educator**
 
 I am a software engineer with a background in mathematics and informatics education.
-I work where system design and implementation meet: turning fuzzy requirements, legacy constraints,
-and cross-system integrations into software that teams can understand, deliver, and support.
+The illicit boundary between system design and implementation fascinates me: fuzzy requirements, legacy constraints,
+and cross-system integrations fuel my unstoppable desire to deliver maintanable software with clearn intent.
 
-My main technical foundation is .NET and C#, with practical work across TypeScript, React, Blazor, WPF, databases, APIs, CI/CD, and industrial interfaces.
-The technology matters, but usually in service of a larger question: how the domain, boundaries, data flows, failure modes, and path for change fit together.
+My main technical foundation is .NET and C#, with practical experience across TypeScript, React, Blazor, WPF, databases, APIs, CI/CD, as well as industrial interfaces.
+My preferred tooling serves the greater good: data flows and governance designed to respect the domain, automation and enforcement to scale and keep it sustainable.
 
-## How I work
+## Principle to work by
 
-* Start with the whole problem: clarify the actors, constraints, lifecycle, and operational reality before choosing abstractions.
-* Stay critical of accidental complexity and abstractions that do not earn their keep. Prefer explicit boundaries, configurable behavior, and reversible steps.
-* Make architecture useful to delivery through credible roadmaps, decision records, tests, automation, and documentation people can follow.
-* Move between levels when needed: explain the underlying model, align a plan, review a design, then trace an integration, migrate legacy code, fix a pipeline, tune a query, support a deployment, or do the other unglamorous work that closes the loop.
+* Understand before solve: clarify the unknown and establish a realistic baseline of constraints and expectations.
+* Remain critical of abstractions and overload by sticking to explicit boundaries and configurable behavior.
+* Wrap design with evidence: architectural design follow established roadmaps, changes result in decision records, tests and automation avoid repeated incidents.
+* Switch stages at the right time: model explanations, plan alignment, legacy consistency are as core aspects of daily business as fixing a pipeline, optimizing a query, or supporting deployment.
 
 ## Professional context
 
-Most of my production work is proprietary, so my public repositories show only a small and unusually recent slice of it.
-The broader work includes technical ownership of a configurable SCADA/HMI and line-control platform spanning user interfaces, services, PLCs, devices, databases, and host systems;
-delivery and support across five production-line projects;
-a two-year modernization roadmap for a legacy banking application;
-and ERP modules, data models, integrations, production maintenance, and customer support.
+Most of my production work is proprietary, so my public repositories strike as a rather small and recent slice.
+I'm most proud of having delivered a configurable SCADA/HMI platform spanning user interfaces, automation and scripting services, PLCs, hardware, databases, and host systems. Other notable contributions include a two-year modernization roadmap for a legacy banking application; and ERP modules, test automation, production maintenance, and customer support.
 
-Before and alongside software engineering, I taught mathematics and informatics and developed technical learning content, including work at Arduino.
-That experience still shapes how I decompose problems, test understanding, communicate across disciplines, and design systems that remain explainable to the people who inherit them.
+Before and alongside software engineering, I taught mathematics and informatics and developed technical learning content.
+That experience still shapes how I decompose problems, test understanding, communicate across disciplines, and embrace scientific domains to design systems that are customer centric and catered to specific needs.
 
 ## Selected public work
 
-These repositories are small, inspectable examples of how I frame problems and structure work rather than a proxy for the scale of the systems I have worked on.
+These repositories are small, inspectable examples of how I frame problems and structure source code. 
+They best represent my wide range of domain interests, staying true to their core concepts.
 
 * **[Kamra](https://github.com/Kamrapp/Kamra)**
-  A household stock and shopping-planning system that connects product modeling, ingestion, evidence, review workflows, and operational safeguards rather than treating crawling as the product.
+  A household stock and shopping-planning system that connects product modeling, ingestion, workflows rather than treating crawling as the product.
 
 * **[Curvebench](https://github.com/legrab/curvebench)**
-  An educational browser application for exploring numerical models, residuals, limitations, and 3D fitting with an emphasis on making mathematical behavior inspectable.
+  An educational tool to explore numerical models, residuals, limitations, and 3D fitting with an emphasis on inspectable mathematical behavior.
 
 * **[Pocok](https://github.com/legrab/pocok)**
-  A deliberately small .NET package portfolio exploring clear capability boundaries, compatibility, testing, release engineering, and the cost of turning repeated application needs into reusable components.
+  A small .NET package portfolio demonstrating my priorities such as clear capability boundaries, compatibility, release engineering, and reusability.
 
 * **[Fonat](https://github.com/legrab/fonat)**
-  An educational system for authoring lessons, presenting material, collecting live responses, and managing assignments and assessments, organized around explicit domain and ownership boundaries.
+  A full-fledged teacher-centric educational system with curriculum planning, collecting study material, knowledge tracking, assessments. Based on an old personal concept, implemented by agentic support where vibes ventured far.
 
 * **[Codebase Learning Flow](https://github.com/legrab/codebase-learning-flow)**
-  A repository-native framework for safe agentic collaboration and deliberate codebase learning, separating delivery governance from optional teaching and knowledge capture.
-
-Smaller repositories also include focused tests, benchmarks, workshop material, and minimal reproductions for .NET, Rider, Paket, and industrial-integration issues.
-I value reducing a problem enough to explain, verify, and report it clearly.
+  An agentic framework for safe-looking, token-optimized codebase learning, embracing knowledge capture over delivery governance.
 
 ## Links
 
