@@ -9,9 +9,9 @@ and cross-system integrations fuel my unstoppable desire to deliver maintanable 
 My main technical foundation is .NET and C#, with practical experience across TypeScript, React, Blazor, WPF, databases, APIs, CI/CD, as well as industrial interfaces.
 My preferred tooling serves the greater good: data flows and governance designed to respect the domain, automation and enforcement to scale and keep it sustainable.
 
-## Principle to work by
+## Principles
 
-* Understand before solve: clarify the unknown and establish a realistic baseline of constraints and expectations.
+* Understand before solving the problem: clarify the unknown and establish a realistic baseline of constraints and expectations.
 * Remain critical of abstractions and overload by sticking to explicit boundaries and configurable behavior.
 * Wrap design with evidence: architectural design follow established roadmaps, changes result in decision records, tests and automation avoid repeated incidents.
 * Switch stages at the right time: model explanations, plan alignment, legacy consistency are as core aspects of daily business as fixing a pipeline, optimizing a query, or supporting deployment.
@@ -24,7 +24,7 @@ I'm most proud of having delivered a configurable SCADA/HMI platform spanning us
 Before and alongside software engineering, I taught mathematics and informatics and developed technical learning content.
 That experience still shapes how I decompose problems, test understanding, communicate across disciplines, and embrace scientific domains to design systems that are customer centric and catered to specific needs.
 
-## Selected public work
+## Showcase
 
 These repositories are small, inspectable examples of how I frame problems and structure source code. 
 They best represent my wide range of domain interests, staying true to their core concepts.
