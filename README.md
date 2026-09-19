@@ -4,7 +4,7 @@
 
 I am a software engineer with a background in mathematics and informatics education.
 The illicit boundary between system design and implementation fascinates me: fuzzy requirements, legacy constraints,
-and cross-system integrations fuel my unstoppable desire to deliver maintanable software with clearn intent.
+and cross-system integrations fuel my unstoppable desire to deliver maintanable software with clean intent.
 
 My main technical foundation is .NET and C#, with practical experience across TypeScript, React, Blazor, WPF, databases, APIs, CI/CD, as well as industrial interfaces.
 My preferred tooling serves the greater good: data flows and governance designed to respect the domain, automation and enforcement to scale and keep it sustainable.
